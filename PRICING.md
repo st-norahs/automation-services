@@ -9,6 +9,11 @@
 | Zapier/Make → n8n port (≤5 flows) | **$497** | Port + failure paths + docs |
 | Retainer | **$397/mo** | Monitoring + small changes |
 
-**Pay:** PayPal chijiokeonyenorah@gmail.com  
+**Pay (primary):** Direct bank transfer  
+Account Name: Chijioke Onyenorah O.  
+Bank: Guarantee Trust Bank (GTB)  
+Account Number: 0046478314  
+Currency: NGN / USD  
+
 **Delivery:** 48h after access on *your* accounts  
 **No ROI/sales guarantees**
