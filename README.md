@@ -21,7 +21,11 @@ No guaranteed sales volume or ROI. You get a tested, documented system with erro
 4. Build ships ≤48h + Loom walkthrough + 14 days fixes on scoped flows
 
 ## Contact / pay
-- **PayPal:** chijiokeonyenorah@gmail.com
+- **Bank Transfer (primary):**  
+  Account Name: Chijioke Onyenorah O.  
+  Bank: Guarantee Trust Bank (GTB)  
+  Account Number: 0046478314  
+  Currency: NGN / USD
 - **GitHub:** [@st-norahs](https://github.com/st-norahs)
 - LinkedIn DM or open an Issue on this repo with: sources, CRM, deadline
 
